@@ -1,18 +1,18 @@
 @import url("https://fonts.googleapis.com/css?family=Heebo");
 
+body {
+    background-color: rgba(102, 181, 255, 0.5);
+}
 h1 {
 	text-align: center;
-  font-family: heebo; 
-    font-size 60px; 
+  font-family: heebo;
+    font-size 60px;
 }
 
 ul {
   white-space: nowrap;
 }
-body {
-    background-image: url("http://cdn.firstwefeast.com/assets/2015/06/jazzcups.jpg");
 
-}
 
 ul {
   list-style: none;
@@ -35,7 +35,7 @@ ul {
 .center-div
 {
      margin: 0 auto;
-     width: 900px; 
+     width: 900px;
 }
 
 div.container {
@@ -76,7 +76,7 @@ div.github-widget {
     color: black;
 }
 
-h1 { 
+h1 {
   background-image: url('http://wallpapercave.com/wp/f2nbsPJ.jpg');
   display: block;
   border-style: solid;
@@ -86,8 +86,8 @@ h1 {
   margin-left: 25%;
   border-radius: 25px;
   border: 2px solid #73AD21;
-  padding: 20px; 
-  height: 50px; 
+  padding: 20px;
+  height: 50px;
 
 }
 
